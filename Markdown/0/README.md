@@ -7,6 +7,9 @@
 
 ### COPY PAST WHATEVER
 
+## IMAGES
+![](Markdown/0/IMG_0505.jpeg){width='100px'}
+
 ### index.html
 ```
 <!DOCTYPE html>
