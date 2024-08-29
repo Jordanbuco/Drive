@@ -86,7 +86,7 @@ class RoomOperations {
 // MARK: - Gestor de la API de GitHub
 
 class GitHubAPIManager {
-    private let token = "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"
+    private let token = "YOUR PERSONAL TOKEN GITHUB"
     private let repo = "Data"
     private let owner = "Jordanbuco"
     private let jsonFilePath = "path/to/your/rooms.json"
