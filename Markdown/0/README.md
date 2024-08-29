@@ -513,3 +513,15 @@ function displayRooms(rooms, containerId) {
     });
 }
 ```
+
+### Imagenes como se 
+## ve
+# despues
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0513.jpeg" alt="Imagen 1 - Miniatura" width="100"/>
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0514.jpeg" alt="Imagen 2 - Miniatura" width="100"/>
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0515.jpeg" alt="Imagen 1 - Miniatura" width="100"/>
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0516.jpeg" alt="Imagen 2 - Miniatura" width="100"/>
+  
+</div>
