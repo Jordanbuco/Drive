@@ -11,7 +11,7 @@
 ## Galería de Imágenes
 
 ### Imagen Principal
-<img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0506.jpeg" alt="Imagen 1" width="400"/>
+<img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0508.jpeg" alt="Imagen 1" width="800"/>
 
 ### Miniaturas
 <div style="display: flex; gap: 10px;">
