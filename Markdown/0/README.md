@@ -1,9 +1,9 @@
 
-### LEER
+# LEER
 
 
-### CONVERSACIONES CHAPY
-# HAZME ESTE CODIGO EN HTML CSS Y JS (codigo desarrollado en Swift Playground de iPad
+# CONVERSACIONES CHAPY
+## HAZME ESTE CODIGO EN HTML CSS Y JS (codigo desarrollado en Swift Playground de iPad
 ```
 import SwiftUI
 import WebKit
@@ -370,15 +370,16 @@ struct MiAplicacionApp: App {
 
 ```
 
-RESPUESTA EN 
 
-### COPY PAST WHATEVER
+# COPY/PAST/OTHERS
 
-## IMAGES
+
+
+# IMAGES
 
 ## Galería de Imágenes
 
-### Imagen Principal
+## Imagen Principal
 <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0508.jpeg" alt="Imagen 3 - Miniatura" width="800"/>
 
 ### Miniaturas
@@ -391,7 +392,7 @@ RESPUESTA EN
 
 # CODIGO COPIADO - de conversación con CHAPY
 
-### index.html
+## index.html
 
 
 ```
@@ -436,7 +437,7 @@ RESPUESTA EN
 </body>
 </html>
 ```
-styles.css
+## styles.css
 ```
 body {
     font-family: Arial, sans-serif;
@@ -490,7 +491,7 @@ h2 {
     border-radius: 5px;
 }
 ```
-script.js
+## script.js
 ```
 document.addEventListener("DOMContentLoaded", function() {
     showView('home');
