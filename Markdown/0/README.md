@@ -8,7 +8,7 @@
 ### COPY PAST WHATEVER
 
 ## IMAGES
-![](Markdown/0/IMG_0505.jpeg){width='100px'}
+![]([Markdown/0/IMG_0505.jpeg](https://github.com/Jordanbuco/Drive/blob/b451b58ce2cba711b0969118337921d2f5258784/Markdown/0/IMG_0505.jpeg)){width='100px'}
 
 ### index.html
 ```
