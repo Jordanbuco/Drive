@@ -8,6 +8,7 @@
 ### COPY PAST WHATEVER
 
 ## IMAGES
+
 ## Galería de Imágenes
 
 ### Imagen Principal
@@ -17,9 +18,12 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0506.jpeg" alt="Imagen 1 - Miniatura" width="100"/>
   <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/imgs/IMG_0507.jpeg" alt="Imagen 2 - Miniatura" width="100"/>
-  
 </div>
+
+
 ### index.html
+
+
 ```
 <!DOCTYPE html>
 <html lang="en">
