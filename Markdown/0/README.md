@@ -8,11 +8,15 @@
 ### COPY PAST WHATEVER
 
 ## IMAGES
+## Galería de Imágenes
 
-1. ![Imagen 1]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0506.jpeg)]
-2. ![Imagen 2]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0507.jpeg)]
-3. ![Imagen 3]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0508.jpeg)]
+### Imagen Principal
+![Imagen 1](https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0506.jpeg)
 
+### Miniaturas
+1. ![Imagen 1 - Miniatura](https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0506.jpeg)
+2. ![Imagen 2 - Miniatura](https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0507.jpeg)
+3. ![Imagen 3 - Miniatura](https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0508.jpeg)
 ### index.html
 ```
 <!DOCTYPE html>
