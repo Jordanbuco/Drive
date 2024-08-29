@@ -1,7 +1,7 @@
 
 # LEER
 
-# CONVERSACIONES CHAPY
+
 
 ### PASAME ESTE CODIGO DE SWIFT PLAYGROUND DE IPAD A HTML CSS Y JS
 #### TEXTO COPIADO EN SU SECCION. ABAJO ENCONTRARAS TODOS LOS CODIGOS COPIADOS DE PREGUNTAS 
@@ -24,9 +24,14 @@
 
 </div>
 
-# CODIGOS **PASTE** DE CONVERSACION CON **CHAPY**
 
-## **PREGUNTA** <CODE>
+
+
+# CONVERSACIONES CHAPY
+## CODIGOS **PASTE** DE CONVERSACION CON **CHAPY**
+
+### **PREGUNTA**
+## <CODE>
 ```
 import SwiftUI
 import WebKit
@@ -392,9 +397,11 @@ struct MiAplicacionApp: App {
 }
 ```
 
-## **RESPUESTA** <CODE>
-# HTMLS\CSS\JS
-### index.html
+### **RESPUESTA** 
+## <CODE>
+
+### HTMLS\CSS\JS
+#### index.html
 
 
 ```
@@ -436,7 +443,7 @@ struct MiAplicacionApp: App {
 </body>
 </html>
 ```
-styles.css
+#### styles.css
 ```
 body {
     font-family: Arial, sans-serif;
@@ -482,7 +489,7 @@ h2 {
     border-radius: 5px;
 }
 ```
-script.js
+#### script.js
 ```
 document.addEventListener("DOMContentLoaded", function() {
     showView('home');
