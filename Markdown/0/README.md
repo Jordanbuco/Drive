@@ -519,9 +519,9 @@ function displayRooms(rooms, containerId) {
 # despues
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0513.png" alt="Imagen 1 - Miniatura" width="100"/>
-  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0514.png" alt="Imagen 2 - Miniatura" width="100"/>
-  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0515.png" alt="Imagen 1 - Miniatura" width="100"/>
-  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0516.png" alt="Imagen 2 - Miniatura" width="100"/>
+  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0513.png" alt="Imagen 1 - Miniatura" width="250"/>
+  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0514.png" alt="Imagen 2 - Miniatura" width="250"/>
+  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0515.png" alt="Imagen 1 - Miniatura" width="250"/>
+  <img src="https://raw.githubusercontent.com/Jordanbuco/Drive/main/Markdown/0/imgs/IMG_0516.png" alt="Imagen 2 - Miniatura" width="250"/>
   
 </div>
