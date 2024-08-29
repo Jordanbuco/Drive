@@ -9,7 +9,9 @@
 
 ## IMAGES
 ![Descripción de la imagen](https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0505.jpeg)
-
+1. ![Imagen 1]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0506.jpeg)]
+2. ![Imagen 2]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0507.jpeg)]
+3. ![Imagen 3]([(https://github.com/Jordanbuco/Drive/blob/main/Markdown/0/IMG_0508.jpeg)]
 
 ### index.html
 ```
