@@ -13,7 +13,8 @@ Esta es una plantilla markdown para ir escribiendo los pasos seguidos de la form
 
 ### imagen
 <div style="display: flex; gap: 10px;">
-  <img src="URLIMAGEN" alt="Imagen 1 - Miniatura" width="800"/>
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/RUTA" alt="Imagen 1 - Miniatura" width="800"/>
+  
 </div>
 
 ## texto
@@ -57,9 +58,22 @@ Esta es una plantilla markdown para ir escribiendo los pasos seguidos de la form
 <div style="display: flex; gap: 10px;">
 
 
-  <img src="URLIMAGEN" alt="Imagen 1 - Miniatura" width="800"/>
-  <img src="URLIMAGEN" alt="Imagen 2 - Miniatura" width="800"/>
-  <img src="URLIMAGEN" alt="Imagen 1 - Miniatura" width="800"/>
-  <img src="URLIMAGEN" alt="Imagen 2 - Miniatura" width="800"/>
+  <div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/RUTA" alt="Imagen 1 - Miniatura" width="800"/>
+  
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/RUTA" alt="Imagen 1 - Miniatura" width="800"/>
+  
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/RUTA" alt="Imagen 1 - Miniatura" width="800"/>
+  
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Jordanbuco/Drive/blob/main/Markdown/RUTA" alt="Imagen 1 - Miniatura" width="800"/>
+  
+</div>
+  
   
 </div>
