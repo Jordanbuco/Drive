@@ -1,6 +1,6 @@
 
 # LEER
-Esta es una plantilla markdown para ir escribiendo los pasos seguidos de la formación 
+Esta es un markdown para ir escribiendo los pasos para el desarrollo de:
 
 
 
